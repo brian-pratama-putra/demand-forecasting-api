@@ -1,0 +1,4 @@
+import os
+
+#LOG
+LOG_NAME = "DEMAND_FORECASTING_API_DEV"
